@@ -1,0 +1,602 @@
+% How to change this file:
+% - Every entry on a single line;
+% - Line-comments with a percentage-sign;
+% - Empty lines are ignored;
+% - Make sure both British and American (Australian, Canadian) English
+%   are covered.
+
+LAAs
+MAAs
+a depressive
+a diabetic
+accede to
+accentuate
+accorded
+acid test
+acquiesce
+acquire
+across the piece
+across-the-piece
+actioned
+actively contemplating
+adjacent to
+admissible
+advantageous
+adversely impact
+advocate
+aforementioned
+against the grain
+aggregate
+all of
+alleviate
+allocate
+alternatively
+ameliorate
+apportionment
+appreciable
+area-based
+area-focused
+as a means of
+as of yet
+as to
+as yet
+ascertain
+assailant
+at this time test
+attributable to
+authorise
+autonomous
+axe to grind
+back to square one
+basically
+beacon
+because of the fact that
+beggars belief
+beggars description
+being done
+belated
+benchmarking
+best practice
+best-practice
+bestial atrocities
+bestow
+big bang
+bike shedding
+bitter row
+bitter row
+blind drunk
+bloodstained tyranny
+blue sky thinking
+bonanza
+brain dump
+break out
+brought to a satisfactory conclusion
+bulky uplift
+burning issue
+by dint of
+by examination
+by virtue of
+c-suite
+can do culture
+can-do culture
+capacity building
+cascading
+cashable
+catalysts
+categorical
+cautiously welcome
+cautiously welcome...
+cease
+centricity
+citizen empowerment
+citizen touchpoints
+clampdown
+clash
+clienting
+close proximity
+cohesive communities
+cohesiveness
+cold comfort
+combating
+coming home to roost
+coming home to roost
+commence
+commissioning
+community engagement
+compact
+compendium
+comply with
+comprehensive area assessment
+concerning
+conditionality
+confined to a wheelchair
+connectedness
+consensual
+consequently
+contestability
+coterminosity
+coterminous
+crackdown
+cripple
+cross-cutting
+cross-fertilisation
+cross-sectoral
+curb growing menaces
+customer insight
+customer journey
+deaf and dumb
+deaf mute
+death toll
+deep dive
+democratic legitimacy
+democratic mandate
+deserved serious consideration
+deserves serious consideration
+deserving serious consideration
+deus ex machine
+digital salon
+digitalising
+direction of travel
+disbenefits
+discourse
+disincentivise
+disincentivised
+disincentivising
+distorts spending priorities
+do well to bear in mind
+double devolution
+downstream
+downstreaming
+drive forward
+drive out
+driven forward
+driven out
+driving forward
+driving out
+dropped a clanger
+due to the fact that
+dwarf
+econometric
+economical
+edge-fit
+elucidate
+embedded
+empowerment
+end user
+end-user
+endeavor
+engaging users
+enumerate
+epoch-making
+equitable
+evergreening
+everyone knows
+evidence base
+evidenced
+exclusively
+exemplar
+expedite
+expend
+explore every avenue
+extensible
+external challenge
+externalities
+face time
+facilitate
+facilitating
+facing broadsides
+factual evidence
+faq
+fast track
+fast-track
+feasible
+feathers really flew
+first and foremost
+flex
+flexibilities and freedoms
+for the purpose of
+for yourselves
+forfeit
+forfeited
+foster
+fostering
+free peoples of the world
+front door
+fulcrum
+fundamental restructuring
+funding streams
+future of place
+future proofing
+future-proofing
+game plan
+game-plan
+garden shedding
+gateway review
+gave rise to
+give rise to
+given rise to
+given the go ahead
+given the go-ahead
+go forward
+going forward
+gold plating
+goldfish bowl facilitated conversation
+good practice
+good-practice
+governance
+granularity
+greatly to be desired
+grist to the mill
+having regard to
+head on
+head-on
+headroom for change
+hereditament
+holistic governance
+holistic
+honest truth
+horizon scanning
+hotbed
+however
+hurdle
+if and when
+impacted
+improvement levers
+in a timely manner
+in accordance with
+in addition
+in all likelihood
+in an effort to
+in between
+in excess of
+in lieu of
+in light of the fact that
+in regard to
+in the near future
+incentivise
+incentivise
+incentivised
+incentivising
+incentivising
+inception
+incumbent upon
+informatics
+information radiators
+initiate
+initiating
+innovative capacity
+inspectorates
+interactivity
+interdepartmental
+interdependencies
+interface
+iron heel
+iron resolution
+irregardless
+is applicable to
+is authorized to
+is responsible for
+it is essential
+iteration
+jackboot
+joined up
+joined-up
+joint working
+key asks
+kickstart
+knowledge bite
+knowledge hub
+knowledge transfer
+lay the foundations
+learning outcome
+learnings
+leave much to be desired
+leave no stone unturned
+leaves much to be desired
+leaving no stone unturned
+leaving no stone unturned
+left no stone unturned
+level playing field
+lever
+leverage
+leveraging
+liaise
+liaising
+lifetime neighbourhood
+light networking lunch
+light touch
+limped into port
+living in a dream world
+local area agreements
+local strategic partnerships
+localities
+low hanging fruit
+low-hanging fruit
+lowlights
+magnitude
+mainstreaming
+make itself felt
+management capacity
+mathematicalise
+meaningful consultation
+meaningful dialogue
+meaningful dialogue
+meaningful reusable interactivity
+mechanisms
+melting pot
+mental patient
+mentally defective
+mentally handicapped
+menu of options
+midget
+minimize
+mobilise
+multi-agency
+multi-area agreements
+multi-disciplinary
+multidisciplinary
+municipalities
+necessitate
+neither confirm nor deny
+network model
+never-never land
+nevertheless
+new controls
+no wrong door
+normalising
+not certain
+not many
+not often
+not un
+notwithstanding
+null and void
+numerous
+obligate
+obviously
+of course
+on the contrary
+on the hypothesis that
+on the other hand
+one front door
+one particular
+one stop shop
+one-stop shop
+optimum
+order of the day
+organic growth
+outrage
+participatory
+particulars
+partnership working
+pass away
+passed away
+pathfinder
+peer challenge
+performance network
+pertaining to
+place shaping
+play a leading part
+play into the hands
+played a leading part
+played into the hands
+pledge
+pledging
+point in time
+poised
+pooled budgets
+pooled resources
+pooled risk
+populace
+portion
+possess
+potentialities
+practitioners
+preclude
+predictors of beaconicity
+preventative services
+prioritisation
+prioritization
+prioritize
+proactive
+process driven
+procure
+procurement
+proficiency
+progressed
+promoted
+promoting
+promulgate
+proportionality
+protocol
+provided that
+provider vehicles
+provider
+public sphere
+pump priming
+purchase
+put simply
+quantum
+quick hit
+quick win
+radical change
+radical transformation
+rationalisation
+re-weaving
+reablement
+reach epidemic proportions
+reach out to
+reach out
+reached out to
+readily apparent
+rebaselining
+reconfigured
+refer back
+regarding
+remainder
+remuneration
+render inoperative
+rendered inoperative
+resource allocation
+resource efficient
+retarded
+revenue streams
+ride roughshod over
+ride roughshod
+riding roughshod
+ring fence
+ring fenced
+ring fencing
+ring the changes
+ringed the changes
+ringfence
+ringfenced
+ringing the changes
+risk based
+robust
+safeguarding
+scaled-back
+scoping
+sector wise
+seedbed
+self-aggrandisement
+self-aggrandizement
+serve no good purpose
+service users
+servitisation
+set ablaze
+shake up
+shake-up
+shall
+shared priority
+shared priority
+shell developments
+signpost
+single conversations
+single point of contact
+situational
+slim down
+slimmed down
+slimming down
+slippage
+social contracts
+social exclusion
+solicit
+span across
+spark off
+spastic
+spatial
+speak offline
+speculation was rife
+spelled out
+spin up
+stand shoulder to shoulder
+standing shoulder to shoulder
+starter for ten
+status quo
+step change
+stood shoulder to shoulder
+storming
+strategic priorities
+strategic
+strategise
+strategize
+streamline
+streamlined
+streamlined
+streamlining
+sub-regional
+subnormal
+subsidiarity
+sunset
+super session
+sustainable communities
+swan song
+sweet smell of success
+symposium
+synergies
+synergy
+systematics
+tackled
+tackling
+take this offline
+takes the biscuit
+tasked
+taxonomy
+terminate
+tesselated
+tested for soundness
+the blind
+the disabled
+the disabled
+the fact that
+the handicapped
+the month of
+thematic
+therefore
+thinking outside of the box
+thinking outside the box
+third sector
+thought shower
+time period
+toe the line
+tonality
+took advantage of
+tooling
+toolkit
+top down
+top-down
+touch points
+touchdown
+tow the line
+traffic lighting
+tragedy struck
+trajectory
+tranche
+transactional
+transformational
+transformed
+transforming
+transpire
+trialogue
+triumphant
+troubled waters
+under-capacitated
+unforgettable
+unprecedented move
+until such time as
+upcert
+upcertify
+upcertification
+uplifting
+upskilling
+upstream
+upstreaming
+upward trend
+user friendly
+utilised
+utilising
+utilization
+value-added
+various different
+very different
+very many
+vision
+visionary
+waiting game
+wash-up session
+we believe
+webinar
+wellderly
+wheelchair-bound
+whether or not
+who blinks first
+wicked issues
+with respect to
+with the exception of
+witnessed
+worklessness
+world cafe
+writing is on the wall
+writing on the wall
+you guys
+you may be able to
