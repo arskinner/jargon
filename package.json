@@ -1,18 +1,18 @@
 {
-  "name": "fillers",
-  "version": "1.1.3",
-  "description": "List of (possible) English filler words",
+  "name": "jargon",
+  "version": "1.0.0",
+  "description": "List of jargon",
   "license": "MIT",
   "keywords": [
     "filler",
     "word",
     "list"
   ],
-  "repository": "words/fillers",
-  "bugs": "https://github.com/words/fillers/issues",
-  "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+  "repository": "arskinner/jargon",
+  "bugs": "https://github.com/arskinner/jargon/issues",
+  "author": "Andrew Skinner",
   "contributors": [
-    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
+    "Andrew Skinner"
   ],
   "main": "index.json",
   "files": [
@@ -50,7 +50,7 @@
     "prettier": true,
     "esnext": false,
     "ignores": [
-      "fillers.js"
+      "jargon.js"
     ]
   },
   "remarkConfig": {
